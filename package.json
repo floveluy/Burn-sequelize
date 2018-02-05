@@ -1,0 +1,16 @@
+{
+  "name": "burn-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sequelize": "^4.27.4",
+    "sequelize": "^4.32.6"
+  }
+}
